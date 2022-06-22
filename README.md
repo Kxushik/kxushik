@@ -4,7 +4,7 @@ Hi 👋 My name is Kaushik Paul
 Software Developer & Student
 ----------------------------
 
-Started learning all about computers and programming nifty little projects since middle school! What started out as making cool discoveries lead to a career I wanted to pursue. Talk to me all about projects, coding and LEGO! (I like collecting lego)
+Started learning all about computers and programming nifty little projects since middle school! What started out as making cool discoveries lead to a career I wanted to pursue. Talk to me all about projects and LEGO! (I like collecting lego)
 
 *   🌍  I'm based in Toronto
 *   ✉️  You can contact me at [kaushikpaul50@gmail.com](mailto:kaushikpaul50@gmail.com)
