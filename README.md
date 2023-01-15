@@ -6,9 +6,9 @@ Software Developer & Student
 
 Started learning all about computers and programming nifty little projects since middle school! What started out as making cool discoveries lead to a career I wanted to pursue. Talk to me all about projects, coding problems and LEGO! (I like collecting LEGO, good ice-breaker 😉)
 
-*   🌍  I'm based in Toronto
+*   🌍  Based in Toronto/Ottawa (Move around a bit for school!)
 *   ✉️  You can contact me at [kaushikpaul50@gmail.com](mailto:kaushikpaul50@gmail.com)
-*   🧠  I'm learning React
+*   🧠  I'm currently learning OPENGL for a side project!
 *   🤝  I'm open to collaborating on Projects and Nifty libraries
 
 ### Skills
