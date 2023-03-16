@@ -1,4 +1,4 @@
-Hi 👋 My name is Kaushik Paul
+Hi 👋 My name is Kaushik Paul (he/him)
 =============================
 
 Software Developer & Student
